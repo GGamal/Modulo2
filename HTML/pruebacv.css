@@ -6,7 +6,7 @@ h1{
 body{
     font-family: 'Courier New', Courier, monospace;
     color: rgb(65, 170, 240);
-    background-image:url("imagenes/d7d53a0c44406d12fe1d773facb1cf47.png");
+    background-image:url("imagenes/cropped-1920-1080-463445.jpg");
     background-attachment: fixed;
     
 }
@@ -78,7 +78,7 @@ img{
     font-size: 45px;
     -webkit-text-stroke: 0.7px black;
     padding: 10px;
-    color:rgb(218, 7, 7);
+    color:rgb(194, 0, 0);
     background: rgb(0,91,255);
     background: radial-gradient(circle, rgba(0,91,255,1) 30%, rgba(246,3,3,1) 90%);
     border-radius: 50px;
